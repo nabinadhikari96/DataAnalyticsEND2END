@@ -1,0 +1,64 @@
+                     SQL(7)
+Session 30 : Database Fundamentals (Day + Night) ----->sep29
+Session 31 : SQL DDL Commands (Day + Night)-------> sep30
+Session 32 : SQL DML Commands (Day + Night)--------->oct1
+Session 33 : SQL Grouping and Sorting (Day + Night)----->oct2
+Session 34 : SQL Joins (Day + Night)----------->oct3
+Session 35 : Subqueries in SQL (Day + Night)--------->oct4
+Session 36 : Windows Function in SQL (Day + Night)---->oct5
+
+	Python(20)
+	Fundamentals(6)
+Session 1 - Python Fundamentals --------------------|
+Session 2 - Operators + If-Else + Loops                |
+Session 3 - Python Strings                                     |------>oct7
+Session 4 - Lists in Python                                     |
+Session 5 - Tuples + Sets + Dictionary                  |
+Session 6 - Functions in Python-----------------------|
+	NumPy(3)
+Session 13 - Numpy Fundamentals ------------------|
+Session 14 - Advanced Numpy                              |------->oct8 & oct9
+Session 15 - Numpy Tricks------------------------------| 
+	Pandas(7)
+Session 16 - Pandas Series--------------------------------------------|
+Session 17 - Pandas DataFrame                                             |------>oct11 & oct12
+Session 18 - Important DataFrame Methods                         |
+Session 19 - GroupBy Object in Pandas--------------------------|
+Session 20 - Merging, Joining & Concatenating-----------------------------------------------| 
+Session 21 - MultiIndex Series and DataFrames                                                        |----->oct13 & oct14
+Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table-----|
+	Matplotlib(2)
+Session 23 - Plotting using Matplotlib--------}-------------->oct16
+Session 24 - Advanced Matplotlib--------------}
+	Seaborn(2)
+Session 25 - Plotting using Seaborn-----------------| 
+Session 26 - Plotting using Seaborn Part 2--------|--------->oct18 
+
+	Data Cleaning + EDA(2)
+Session 28 - Data Assessing and Cleaning-----------------------------------| 
+Session 29 - Exploratory Data Analysis | Data Analysis Process------|-------->oct20 
+
+	Mathematics(8)
+Session 38 - Descriptive Statistics Part 1------| 
+Session 39 - Descriptive Statistics Part 2------|---------------------------------------------->oct22
+Session 40 - Probability Distribution Functions - PDF, PMF & CDF-------| 
+Session 41 - Normal Distribution-----------------------------------------------------|----------->oct23
+Session 43 - Central Limit Theorem-------------------------------------------------| 
+Session 44 - Confidence Intervals---------------------------------------------------|------------->oct24 
+Session 45 - Hypothesis Testing Part 1--------------------------------------------| 
+Session 46 - Hypothesis Testing Part 2--------------------------------------------|-------------->oct25
+
+	Tableau(5)
+- Querying & Transforming Data----------|
+- Data Modeling                                       |
+- Calculations & Formula                        |--------------->oct27
+- Reports & Visualisations                      |
+- Dashboards------------------------------------|
+
+	Excel(6)
+- Editing Text and Formulas--------------------------|
+- Excel Functions and Lists---------------------------|
+- Worksheets and Pivot Tables-----------------------|-----------------oct29
+- Formatting Data and Data Validation-------------|
+- Working with Charts and Templates--------------|
+- Lookup, Macros, and VBA----------------------------| 
